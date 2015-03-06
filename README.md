@@ -1,8 +1,8 @@
 # small_businesses
 Python Anaconda distribution has all of the required packages.
 Other than that, you'll need to sownload two data sets from nltk:
-corpora/ stop words
-Models/ punkt
+1. corpora/ stop words
+2. Models/ punkt
 
 Downloding Packages
 ----------------------
@@ -12,4 +12,4 @@ Downloding Packages
 Cloning the Repository
 ----------------------
 
-		git clone https://github.com/microsoftny/athena-civic.git
+		git clone https://github.com/adysevy/small_businesses.git
