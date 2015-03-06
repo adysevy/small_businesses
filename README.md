@@ -1,8 +1,10 @@
 # small_businesses
-Python Anaconda distribution has all of the required packages.\n
-Other than that, you'll need to sownload two data sets from nltk:\n
-corpora/ stop words\n
-Models/ punkt\n
+Python Anaconda distribution has all of the required packages.
+Other than that, you'll need to sownload two data sets from nltk:
+corpora/ stop words
+Models/ punkt
 
+Downloding Packages
+----------------------
 import nltk
-nltk.download() #download stop words from corpora
+nltk.download() #download stop words from Corpora and punkt from Models
