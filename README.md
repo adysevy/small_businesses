@@ -6,5 +6,5 @@ Models/ punkt
 
 Downloding Packages
 ----------------------
-import nltk
-nltk.download() #download stop words from Corpora and punkt from Models
+		import nltk
+		nltk.download() #download stop words from Corpora and punkt from Models
